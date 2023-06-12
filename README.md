@@ -1,6 +1,5 @@
-# More Practice
+# Practice Specifically through python scripts and terminal  
 
-## Script-Practice
 > Random python projects done through scripts and terminal. 
 
 
