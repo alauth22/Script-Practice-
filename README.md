@@ -1,2 +1,6 @@
-# Script-Practice
-Random python projects done through scripts and terminal. 
+# More Practice
+
+## Script-Practice
+> Random python projects done through scripts and terminal. 
+
+
